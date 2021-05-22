@@ -1,2 +1,2 @@
-# cs523-project3
-Model of the Immune System
+# ImmuneSystemModel
+Model of the Immune System created for cs523
